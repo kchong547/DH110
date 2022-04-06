@@ -33,9 +33,9 @@ The following scale can be used to rate the severity of usability problems
 Information: This is a website that lets people learn notes, chords, and scales for free. It offers lessons, exercises, and tools. There are three different services that this website offers: lessons, exercise, and tools. 
 
 ### Screenshots: 
-![Photo of musictheory.net](Image https://imgur.com/fe1Sxxc)
-![Photo of musictheory.net](https://imgur.com/BDQY3IL)
-![Photo of musictheory.net](https://imgur.com/EXpAaBs)
+![Photo of musictheory.net](Images/MT1.png)
+![Photo of musictheory.net](Images/MT2.png)
+![Photo of musictheory.net](Images/MT3.png)
 
 ### URL: https://www.musictheory.net/
 
@@ -99,8 +99,8 @@ The website offers a contact us option that leads users to a FAQ or write an ema
 ### Information: This is a website that lets people learn notes, chords, and scales. It offers tutorials and exercises that users can use to learn music.
 
 ### Screenshots: 
-![Photo of teoria.com](https://imgur.com/xksbe40)
-![Photo of teoria.com](https://imgur.com/C4nGDS0)
+![Photo of teoria.com](Images/T1.png)
+![Photo of teoria.com](Images/T2.png)
 
 ### URL: https://www.teoria.com/
 
