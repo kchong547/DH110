@@ -11,7 +11,9 @@ After conducting a heuristic analysis on the website, several issues of the webs
 Usability testing is the process of testing a product or service through users representative of a population. Researchers will ask a participant to perform task and observe the participants behavior, reactions, and feedback to these tasks. The purpose of usability testing is to identify the problems in the design of the product, learn how to improve the product, and learn about the behaviors and preferences of those who may use the product. Usability testing suggests that the designs of UX designers should be influenced by how users interact with the design.
 
 ## How the test is conducted
-The usability test was conducted using a survey on google forms. The design of the test is a remote moderated, portable minimalistic lab. The user and I will sit in separate rooms and converse through zoom. I will ask the user for their informed consent to record their responses and record the test. The user will conduct 3 tasks and provide detailed feedback about their methodology, comfort, satisfaction, and suggestions for the website. The user will then provide demographic information should they be comfortable with sharing. 
+The usability test was conducted using a survey on google forms. The design of the test is a remote moderated, portable minimalistic lab. The user and I will sit in separate rooms, use 2 separate computers, and converse through Zoom. I will ask the user for their informed consent to record their responses and record the test. A few background and pretest questions will be asked. The user will conduct 3 tasks and provide detailed feedback about their methodology, comfort, satisfaction, and suggestions for the website. Following the test, the user will answer from post test questions about the ease of use, comfortability, and overall satisfaction with the tasks. The user will then provide demographic information should they be comfortable with sharing. 
+
+This is a pilot test.
 
 ## What will be tested
 The participant will be asked to conduct 3 different tasks to confirm the issues of the website listed above. I hope to improve the websites by adding more flexible and obvious ways to navigate the website so users could use it to its full potential. I hope that participants will be able to confirm my suspicions and also point out other flaws that I didn't consider before
@@ -21,10 +23,10 @@ Here are the three tasks listed below:
 2. Find an exercise about chord identification from the current lesson. This is to test website navigation since there isn't a navigation bar provided from the current lesson.
 3. Customize the exercise and reveal the answer to the exercise. This is to test if the user could find certain options and test recognition rather than recall. 
 
-#Link to online survey 
+# Link to online survey 
 https://forms.gle/UDgrBnsx7cJuEpjj8
 
-#Link to pilot UT video
+# Link to pilot UT video
 https://drive.google.com/file/d/16L0qUovaj2nfH2GTrKFY3Qpt2zec9SZr/view?usp=sharing
 
 
