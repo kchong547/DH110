@@ -35,12 +35,14 @@ In order to learn music theory or how to play music, users learning independentl
 ## Methods
 I decided to use participatory observation through an activity where the interviewee walked me through exploring his resources to learn music.
 The interview consisted of the following sections:
+
 Background: I wanted to get to know about the participants previous knowledge about learning music as that would affect the processes that they would use and already know. Learning about the participant’s typical learning style would be very important to understanding what kind of tools and resources they gravitate towards.
+
 Observation: I allowed the user to guide me through their process of how they would start learning music. I asked clarifying questions to better understand why they chose certain resources and what about them made them so enticing.
+
 Follow up questions: These questions consisted of asking about alternative resources that weren’t online or things they wish they could have while learning music.
+
 The research was conducted over Zoom, by their own desk where they had access to both the internet and in person materials they use to learn music. This reflects an environment that people would normally be in to learn music on their own.
-
-
 
 # Research Materials
 
