@@ -15,8 +15,8 @@ For the sake of the product, 2 personas were created to better understand how us
 2. Kevin is a recent graduate student who pursued a computer science degree. Throughout his time as a student, Kevin pursued playing the saxophone and joined a student organization on campus focusing on bringing woodwind musicians together. Now that he’s graduated college, Kevin wants to continue to refresh his understanding of music theory and maintain a community of musicians he can learn with. Kevin is also interested in sharing his knowledge of music theory.
 
 # Wireframes & Wireflows 
-![Photo of wireframe](imgages/split-1.png)
-![Photo of wireframe](imgages/split-2.png)
+![Photo of wireframe](images/split-1.png)
+![Photo of wireframe](images/split-2.png)
 ![Photo of wireflow](images/Wireflow.png)
 
 # Testing
